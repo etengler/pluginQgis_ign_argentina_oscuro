@@ -4,7 +4,7 @@ Este plugin para QGIS permite la descarga directa de mapas base y capas WMS y WF
 
 ![image](https://github.com/user-attachments/assets/bc147d15-60a3-47b0-94e9-c8b435973d50)
 
-Tambien se encuntra disponible la versión estandar en: 
+Tambien se encuntra disponible la versión estandar en: https://github.com/etengler/pluginQgis_ign_argentina
 
 <br>
 :point_right: Para hacer uso del complemento se deben seguir los siguientes pasos:
